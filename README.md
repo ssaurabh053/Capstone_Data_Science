@@ -1,2 +1,2 @@
-# Capstone_Data_Science
+# Coursera_Capstone
 Starting with Github repository
